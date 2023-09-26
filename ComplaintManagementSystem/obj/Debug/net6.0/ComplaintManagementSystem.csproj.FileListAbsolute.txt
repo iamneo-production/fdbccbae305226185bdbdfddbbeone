@@ -564,13 +564,3 @@ D:/Dotnet_MS2_Solutions/Broadband Internet Complaint Management System/Complaint
 D:/Dotnet_MS2_Solutions/Broadband Internet Complaint Management System/ComplaintManagementSystem/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.pdb
 D:/Dotnet_MS2_Solutions/Broadband Internet Complaint Management System/ComplaintManagementSystem/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.genruntimeconfig.cache
 D:/Dotnet_MS2_Solutions/Broadband Internet Complaint Management System/ComplaintManagementSystem/ComplaintManagementSystem/obj/Debug/net6.0/ref/ComplaintManagementSystem.dll
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.csproj.AssemblyReference.cache
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.csproj.CoreCompileInputs.cache
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.MvcApplicationPartsAssemblyInfo.cs
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.MvcApplicationPartsAssemblyInfo.cache
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.RazorAssemblyInfo.cache
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.RazorAssemblyInfo.cs
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.dll
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/refint/ComplaintManagementSystem.dll
-/home/coder/project/workspace/ComplaintManagementSystem/obj/Debug/net6.0/ComplaintManagementSystem.pdb
