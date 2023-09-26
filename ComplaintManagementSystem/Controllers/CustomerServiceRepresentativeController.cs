@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
 namespace dotnetapp.Models{
-public class Batch{
+public class CustomerServiceRepresentive{
     public int RepresentativeID {get;set;}
-    public DateTime StartTime {get;set;}
-    public DateTime EndTime {get;set;}
-    [Display(Name="Remaining")]
-    public int Capacity {get;set;}
-    public ICollection<Student> Students {get;set;}
+    public string FirstName {get;set;}
+    public string LastName {get;set;}
+     
+    public string Email {get;set;}
+     
 }}
