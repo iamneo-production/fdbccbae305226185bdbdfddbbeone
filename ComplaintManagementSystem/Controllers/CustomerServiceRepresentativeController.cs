@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 namespace dotnetapp.Models{
 public class Batch{
-    public int BatchID {get;set;}
+    public int RepresentativeID {get;set;}
     public DateTime StartTime {get;set;}
     public DateTime EndTime {get;set;}
     [Display(Name="Remaining")]
